@@ -1,0 +1,23 @@
+.body-login {
+	padding: 20px;
+}
+
+.login {
+	max-width: 500px; 
+	background-color: #DBFFE3;
+	padding: 30px;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+.bg-thead {
+	background-color: rgba(0,0,0,0.35);
+}
+
+.style-action-edit {
+	color: #e3c100;
+}
+
+.style-action-hapus {
+	color: red;
+}
